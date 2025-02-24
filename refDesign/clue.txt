@@ -1,0 +1,5 @@
+run the below lines in Matlab. Swap out the path for whatever the path is to your downloaded directory
+addpath('D:\downloads\refDesign') 
+addpath('D:\downloads\refDesign\Fusion2')
+Fusion2Registration.plugin_board
+savepath
